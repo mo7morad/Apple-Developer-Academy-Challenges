@@ -10,7 +10,7 @@
 | # | Folder | App Name | Core Concepts |
 |---|---|---|---|
 | 0 | [`AppleAcademy-Ch0-PrimeShift`](./AppleAcademy-Ch0-PrimeShift) | Academy Eats | `NavigationStack`, `List`, `HStack`, `Image`, assets |
-| 1 | [`AppleAcademy-Ch1-HelpAnAcademyFriend`](./AppleAcademy-Ch1-HelpAnAcademyFriend) | Academy Eats (peer read) | Code reading, SwiftUI layout, peer programming |
+| 1 | [`AppleAcademy-Ch1-HelpAnAcademyFriend`](./AppleAcademy-Ch1-HelpAnAcademyFriend) | Individual Design (Sketch) | UI/UX design, Sketch artboards, design-to-dev handoff |
 | 2 | [`AppleAcademy-Ch2-Contacts`](./AppleAcademy-Ch2-Contacts) | Contacts | `Dictionary(grouping:)`, sectioned `List`, toolbar, search |
 
 ---
@@ -27,9 +27,9 @@ The **first SwiftUI screen**, built from zero. A scrollable restaurant list that
 
 ### [Challenge 1 — Help an Academy Friend](./AppleAcademy-Ch1-HelpAnAcademyFriend)
 
-Same app as Challenge 0, but the challenge flips — **you are handed someone else's code** and must read, understand, and explain it. Mirrors real-world team development where reading code is as important as writing it.
+An introduction to **UI/UX design** using **Sketch**. Rather than writing code, this challenge focused on learning the Sketch design tool — artboards, UI components, typography, spacing, and visual hierarchy — and producing an individual design file that captures one or more app screens.
 
-**Key skill:** Cold-reading an Xcode project, tracing view modifiers, and articulating design decisions to a peer.
+**Key skill:** Wireframing and visual design in Sketch, preparing assets and layouts for developer handoff.
 
 ---
 
