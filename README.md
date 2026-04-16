@@ -10,7 +10,7 @@
 | # | Folder | App Name | Core Concepts |
 |---|---|---|---|
 | 0 | [`AppleAcademy-Ch0-PrimeShift`](./AppleAcademy-Ch0-PrimeShift) | Academy Eats | `NavigationStack`, `List`, `HStack`, `Image`, assets |
-| 1 | [`AppleAcademy-Ch1-HelpAnAcademyFriend`](./AppleAcademy-Ch1-HelpAnAcademyFriend) | Individual Design (Sketch) | UI/UX design, Sketch artboards, design-to-dev handoff |
+| 1 | [`AppleAcademy-Ch1-HelpAnAcademyFriend`](./AppleAcademy-Ch1-HelpAnAcademyFriend) | Individual, and Team Design (Sketch) | UI/UX design, Sketch artboards, design-to-dev handoff |
 | 2 | [`AppleAcademy-Ch2-Contacts`](./AppleAcademy-Ch2-Contacts) | Contacts | `Dictionary(grouping:)`, sectioned `List`, toolbar, search |
 
 ---
@@ -91,8 +91,4 @@ Each challenge folder contains its own `README.md` with a deeper breakdown of th
 ## 👤 Author
 
 **Mohamed Morad** — Apple Developer Academy student  
-Contributions from: Javier Fransiscus (Ch2 static view)
 
----
-
-*Challenges are numbered from 0 because developers start counting from zero. 🙂*
