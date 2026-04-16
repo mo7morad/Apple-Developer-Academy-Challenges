@@ -1,97 +1,56 @@
-# 🍕 Challenge 0 — PrimeShift (Academy Eats)
+# 🍕 PrimeShift — Academy Challenge 0
 
-> **Apple Developer Academy** · Challenge 0  
-> *Your very first SwiftUI screen — a simple list UI built from scratch.*
+This was **my very first app** in the Apple Developer Academy journey.
 
----
+## About
 
-## 📖 About
+PrimeShift is a simple SwiftUI starter project where I focused on building one clean screen using:
 
-**PrimeShift** is the entry-point challenge of the Apple Developer Academy program. The goal is to get comfortable with Xcode, SwiftUI's declarative syntax, and the basic building blocks every iOS app relies on: `NavigationStack`, `List`, `HStack`, `Image`, and `Text`.
+- `NavigationStack`
+- `List`
+- `HStack`
+- `Image`
+- `Text`
 
-No logic. No state. Pure UI. The perfect zero-to-one moment.
+There is no complex logic here yet — the point of this challenge was to practice layout basics and get comfortable with Xcode and SwiftUI.
 
----
+## What the app shows
 
-## 🎯 Learning Objectives
+When I run the app, I get one screen with the title **Academy Eats**.
 
-| Concept | What you practice |
-|---|---|
-| `NavigationStack` | Setting up a navigation-aware screen hierarchy |
-| `List` | Rendering scrollable rows of content |
-| `HStack` | Laying out views horizontally side-by-side |
-| `Image` (asset catalog) | Loading and displaying local image assets |
-| `.resizable()` / `.frame()` | Controlling image dimensions |
-| `.navigationTitle()` | Adding a large title to the navigation bar |
+Inside the list, there is one row:
+- an image from assets: `biker`
+- a text label: **An OG Biker**
 
----
-
-## 🗂️ Project Structure
+## Project structure
 
 ```
 AppleAcademy-Ch0-PrimeShift/
-├── PrimeShift.xcodeproj/          # Xcode project file
+├── README.md
+├── PrimeShift.xcodeproj/
 └── PrimeShift/
-    ├── PrimeShiftApp.swift        # @main entry point
-    ├── ContentView.swift          # Single screen — the Academy Eats list
+    ├── PrimeShiftApp.swift
+    ├── ContentView.swift
     └── Assets.xcassets/
-        ├── biker.imageset/        # "An OG Biker" photo
-        ├── AppIcon.appiconset/    # App icon
-        └── AccentColor.colorset/  # Global tint color
+        ├── AccentColor.colorset/
+        ├── AppIcon.appiconset/
+        └── biker.imageset/
 ```
 
----
+## Main files
 
-## 📱 What the App Looks Like
+- `PrimeShift/PrimeShiftApp.swift`: app entry point that loads `ContentView`
+- `PrimeShift/ContentView.swift`: contains the `NavigationStack` + `List` UI
+- `PrimeShift/Assets.xcassets/biker.imageset/`: contains `biker.jpeg`
 
-The app opens a single screen titled **"Academy Eats"** containing a `List` with one row. The row pairs a square thumbnail (the `biker` image from assets) with the label **"An OG Biker"**, laid out using an `HStack`.
+## How to run
 
-```
-┌────────────────────────────┐
-│  Academy Eats              │  ← navigationTitle
-├────────────────────────────┤
-│  [🖼 100×100]  An OG Biker │  ← HStack row inside List
-│                            │
-└────────────────────────────┘
-```
+1. Open `PrimeShift.xcodeproj` in Xcode
+2. Select a simulator or device
+3. Press `⌘R`
 
----
+## Notes
 
-## 🔑 Key Code
-
-```swift
-// ContentView.swift
-NavigationStack {
-    List {
-        HStack {
-            Image("biker")
-                .resizable()
-                .frame(width: 100, height: 100)
-                .scaledToFit()
-            Text("An OG Biker")
-        }
-    }
-    .navigationTitle(Text("Academy Eats"))
-}
-```
-
----
-
-## 🚀 How to Run
-
-1. Open `PrimeShift.xcodeproj` in **Xcode 15+**
-2. Select any iPhone simulator (e.g. *iPhone 16*)
-3. Press **⌘ R**
-
----
-
-## 🛠️ Tech Stack
-
-- **Language:** Swift 5.9+
-- **UI Framework:** SwiftUI
-- **Minimum Deployment:** iOS 17+
-- **Xcode:** 15+
-
----
-
-*Created by Mohamed Morad · Apple Developer Academy*
+- This challenge is intentionally simple.
+- The goal was to build a working SwiftUI screen from scratch.
+- It was my first step before moving to bigger academy challenges.
