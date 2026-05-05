@@ -26,9 +26,11 @@ Was the first challenge I completed (INDIVIDUAL). The app was from my choice, an
 
 ### [Challenge 1 — Help an Academy Friend](./AppleAcademy-Ch1-HelpAnAcademyFriend)
 
-An introduction to **UI/UX design** using **Sketch** (TEAM). This challenge focused on learning the Sketch design tool — artboards, UI components, typography, spacing, and visual hierarchy — and producing an individual design file that captures one or more app screens.
+A TEAM project introduction to **UI/UX design** using **Sketch** . This challenge focused on teaching us empathy, and that we are creating for a user that who has specific needs and we need to address them, and help this friend. learning the Sketch design tool — artboards, UI components, typography, spacing, and visual hierarchy — and producing an individual design file that captures one or more app screens.
 
-**Key skill:** Wireframing and visual design in Sketch, preparing assets and layouts for developer handoff.
+**Key skill:** 
+Empathy and user-centered design.
+Wireframing and visual design in Sketch, preparing assets and layouts for developer handoff.
 
 ---
 
