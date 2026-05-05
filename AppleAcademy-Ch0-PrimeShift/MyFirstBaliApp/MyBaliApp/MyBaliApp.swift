@@ -1,14 +1,14 @@
 //
-//  PrimeShiftApp.swift
-//  PrimeShift
+//  MyBaliAppApp.swift
+//  MyBaliApp
 //
-//  Created by Mohamed Morad on 11/03/26.
+//  Created by Ivan on 03/03/26.
 //
 
 import SwiftUI
 
 @main
-struct PrimeShiftApp: App {
+struct MyBaliAppApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

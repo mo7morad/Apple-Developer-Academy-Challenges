@@ -6,8 +6,17 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		140FFDDE2F96FD4C00A84BD4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140FFDDD2F96FD4C00A84BD4 /* ContentView.swift */; };
+		140FFDE22F96FD6900A84BD4 /* MainApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140FFDE12F96FD6600A84BD4 /* MainApp.swift */; };
+		140FFDE42F96FE2400A84BD4 /* ModelContact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140FFDE32F96FE2400A84BD4 /* ModelContact.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
-		14E0E87E2F8F2AE500FACC26 /* Contacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Contacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1406AE222F98577D0021F052 /* Contacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Contacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		140FFDDD2F96FD4C00A84BD4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		140FFDE12F96FD6600A84BD4 /* MainApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainApp.swift; sourceTree = "<group>"; };
+		140FFDE32F96FE2400A84BD4 /* ModelContact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelContact.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +42,11 @@
 			isa = PBXGroup;
 			children = (
 				14E0E8802F8F2AE500FACC26 /* Contacts */,
-				14E0E87F2F8F2AE500FACC26 /* Products */,
+				140FFDDD2F96FD4C00A84BD4 /* ContentView.swift */,
+				140FFDE32F96FE2400A84BD4 /* ModelContact.swift */,
+				140FFDE12F96FD6600A84BD4 /* MainApp.swift */,
+				1406AE222F98577D0021F052 /* Contacts.app */,
 			);
-			sourceTree = "<group>";
-		};
-		14E0E87F2F8F2AE500FACC26 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				14E0E87E2F8F2AE500FACC26 /* Contacts.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -67,7 +71,7 @@
 			packageProductDependencies = (
 			);
 			productName = Contacts;
-			productReference = 14E0E87E2F8F2AE500FACC26 /* Contacts.app */;
+			productReference = 1406AE222F98577D0021F052 /* Contacts.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -82,6 +86,7 @@
 				TargetAttributes = {
 					14E0E87D2F8F2AE500FACC26 = {
 						CreatedOnToolsVersion = 26.4;
+						LastSwiftMigration = 2640;
 					};
 				};
 			};
@@ -95,7 +100,7 @@
 			mainGroup = 14E0E8752F8F2AE500FACC26;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 14E0E87F2F8F2AE500FACC26 /* Products */;
+			productRefGroup = 14E0E8752F8F2AE500FACC26;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -119,6 +124,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				140FFDE42F96FE2400A84BD4 /* ModelContact.swift in Sources */,
+				140FFDE22F96FD6900A84BD4 /* MainApp.swift in Sources */,
+				140FFDDE2F96FD4C00A84BD4 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +259,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = BD8SA4X398;
@@ -272,6 +281,7 @@
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -283,6 +293,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = BD8SA4X398;

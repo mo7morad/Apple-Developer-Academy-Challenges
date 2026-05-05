@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		1433FAE02F60F2320072DC43 /* PrimeShift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PrimeShift.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C9394F42F56DB94002B93C5 /* MyBaliApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyBaliApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		1433FAE22F60F2320072DC43 /* PrimeShift */ = {
+		2C9394F62F56DB94002B93C5 /* MyBaliApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PrimeShift;
+			path = MyBaliApp;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1433FADD2F60F2320072DC43 /* Frameworks */ = {
+		2C9394F12F56DB94002B93C5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1433FAD72F60F2320072DC43 = {
+		2C9394EB2F56DB94002B93C5 = {
 			isa = PBXGroup;
 			children = (
-				1433FAE22F60F2320072DC43 /* PrimeShift */,
-				1433FAE12F60F2320072DC43 /* Products */,
+				2C9394F62F56DB94002B93C5 /* MyBaliApp */,
+				2C9394F52F56DB94002B93C5 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		1433FAE12F60F2320072DC43 /* Products */ = {
+		2C9394F52F56DB94002B93C5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1433FAE02F60F2320072DC43 /* PrimeShift.app */,
+				2C9394F42F56DB94002B93C5 /* MyBaliApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1433FADF2F60F2320072DC43 /* PrimeShift */ = {
+		2C9394F32F56DB94002B93C5 /* MyBaliApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1433FAEB2F60F2330072DC43 /* Build configuration list for PBXNativeTarget "PrimeShift" */;
+			buildConfigurationList = 2C9394FF2F56DB95002B93C5 /* Build configuration list for PBXNativeTarget "MyBaliApp" */;
 			buildPhases = (
-				1433FADC2F60F2320072DC43 /* Sources */,
-				1433FADD2F60F2320072DC43 /* Frameworks */,
-				1433FADE2F60F2320072DC43 /* Resources */,
+				2C9394F02F56DB94002B93C5 /* Sources */,
+				2C9394F12F56DB94002B93C5 /* Frameworks */,
+				2C9394F22F56DB94002B93C5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				1433FAE22F60F2320072DC43 /* PrimeShift */,
+				2C9394F62F56DB94002B93C5 /* MyBaliApp */,
 			);
-			name = PrimeShift;
+			name = MyBaliApp;
 			packageProductDependencies = (
 			);
-			productName = PrimeShift;
-			productReference = 1433FAE02F60F2320072DC43 /* PrimeShift.app */;
+			productName = MyBaliApp;
+			productReference = 2C9394F42F56DB94002B93C5 /* MyBaliApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1433FAD82F60F2320072DC43 /* Project object */ = {
+		2C9394EC2F56DB94002B93C5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 2630;
+				LastSwiftUpdateCheck = 2600;
 				LastUpgradeCheck = 2630;
 				TargetAttributes = {
-					1433FADF2F60F2320072DC43 = {
-						CreatedOnToolsVersion = 26.3;
+					2C9394F32F56DB94002B93C5 = {
+						CreatedOnToolsVersion = 26.0.1;
 					};
 				};
 			};
-			buildConfigurationList = 1433FADB2F60F2320072DC43 /* Build configuration list for PBXProject "PrimeShift" */;
+			buildConfigurationList = 2C9394EF2F56DB94002B93C5 /* Build configuration list for PBXProject "MyBaliApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 1433FAD72F60F2320072DC43;
+			mainGroup = 2C9394EB2F56DB94002B93C5;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 1433FAE12F60F2320072DC43 /* Products */;
+			productRefGroup = 2C9394F52F56DB94002B93C5 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1433FADF2F60F2320072DC43 /* PrimeShift */,
+				2C9394F32F56DB94002B93C5 /* MyBaliApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1433FADE2F60F2320072DC43 /* Resources */ = {
+		2C9394F22F56DB94002B93C5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1433FADC2F60F2320072DC43 /* Sources */ = {
+		2C9394F02F56DB94002B93C5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		1433FAE92F60F2330072DC43 /* Debug */ = {
+		2C9394FD2F56DB95002B93C5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -160,7 +160,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = BD8SA4X398;
+				DEVELOPMENT_TEAM = E8XUSSZPKN;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -178,16 +178,19 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		1433FAEA2F60F2330072DC43 /* Release */ = {
+		2C9394FE2F56DB95002B93C5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -222,7 +225,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = BD8SA4X398;
+				DEVELOPMENT_TEAM = E8XUSSZPKN;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -234,14 +237,18 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		1433FAEC2F60F2330072DC43 /* Debug */ = {
+		2C9395002F56DB95002B93C5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -249,43 +256,31 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = BD8SA4X398;
-				ENABLE_APP_SANDBOX = YES;
-				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
-				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.morad.PrimeShift;
+				PRODUCT_BUNDLE_IDENTIFIER = binb.MyBaliApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				REGISTER_APP_GROUPS = YES;
-				SDKROOT = auto;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 26.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		1433FAED2F60F2330072DC43 /* Release */ = {
+		2C9395012F56DB95002B93C5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -293,64 +288,52 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = BD8SA4X398;
-				ENABLE_APP_SANDBOX = YES;
-				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
-				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.morad.PrimeShift;
+				PRODUCT_BUNDLE_IDENTIFIER = binb.MyBaliApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				REGISTER_APP_GROUPS = YES;
-				SDKROOT = auto;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 26.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1433FADB2F60F2320072DC43 /* Build configuration list for PBXProject "PrimeShift" */ = {
+		2C9394EF2F56DB94002B93C5 /* Build configuration list for PBXProject "MyBaliApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1433FAE92F60F2330072DC43 /* Debug */,
-				1433FAEA2F60F2330072DC43 /* Release */,
+				2C9394FD2F56DB95002B93C5 /* Debug */,
+				2C9394FE2F56DB95002B93C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1433FAEB2F60F2330072DC43 /* Build configuration list for PBXNativeTarget "PrimeShift" */ = {
+		2C9394FF2F56DB95002B93C5 /* Build configuration list for PBXNativeTarget "MyBaliApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1433FAEC2F60F2330072DC43 /* Debug */,
-				1433FAED2F60F2330072DC43 /* Release */,
+				2C9395002F56DB95002B93C5 /* Debug */,
+				2C9395012F56DB95002B93C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1433FAD82F60F2320072DC43 /* Project object */;
+	rootObject = 2C9394EC2F56DB94002B93C5 /* Project object */;
 }
