@@ -18,7 +18,7 @@
 ## 📚 Challenge Summaries
 
 ### [Challenge 0 — PrimeShift](./AppleAcademy-Ch0-PrimeShift)
-Was the first challenge I completed. The app was from my choice, and I chose to create this to help me maintain my manual motorcycle maintenance checkups, for each part, also log my learning journey, of how to ride a manual motorcycle.
+Was the first challenge I completed (INDIVIDUAL). The app was from my choice, and I chose to create this to help me maintain my manual motorcycle maintenance checkups, for each part, also log my learning journey, of how to ride a manual motorcycle.
 
 **Key views:** `NavigationStack` › `List` › `HStack` › `Image` + `Text`
 
@@ -26,7 +26,7 @@ Was the first challenge I completed. The app was from my choice, and I chose to 
 
 ### [Challenge 1 — Help an Academy Friend](./AppleAcademy-Ch1-HelpAnAcademyFriend)
 
-An introduction to **UI/UX design** using **Sketch**. This challenge focused on learning the Sketch design tool — artboards, UI components, typography, spacing, and visual hierarchy — and producing an individual design file that captures one or more app screens.
+An introduction to **UI/UX design** using **Sketch** (TEAM). This challenge focused on learning the Sketch design tool — artboards, UI components, typography, spacing, and visual hierarchy — and producing an individual design file that captures one or more app screens.
 
 **Key skill:** Wireframing and visual design in Sketch, preparing assets and layouts for developer handoff.
 
@@ -34,7 +34,7 @@ An introduction to **UI/UX design** using **Sketch**. This challenge focused on 
 
 ### [Challenge 2 — Contacts](./AppleAcademy-Ch2-Contacts)
 
-A **clone of Apple's Contacts app** built in two stages:
+A (DUO) project **clone of Apple's Contacts app** built in two stages:
 
 1. **Static** (`AcademyVersion.swift`) — hardcoded contacts and sections, built by hand to understand the exact structure.
 2. **Dynamic** (`DictionaryViewVersion.swift`) — the same UI powered by `Dictionary(grouping:)`, making it trivial to add or remove contacts.
