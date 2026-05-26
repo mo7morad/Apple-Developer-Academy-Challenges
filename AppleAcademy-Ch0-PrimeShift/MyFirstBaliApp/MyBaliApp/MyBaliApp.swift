@@ -11,7 +11,7 @@ import SwiftUI
 struct MyBaliAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Screen1View()
         }
     }
 }
