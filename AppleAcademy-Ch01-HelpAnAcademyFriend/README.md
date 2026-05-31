@@ -13,6 +13,12 @@ Rather than writing code, the focus shifted to wireframing, creating UI componen
 
 ---
 
+## 🎬 Final Team HiFi (Screen Recording)
+
+<video src="https://user-images.githubusercontent.com/0/placeholder.mp4" controls></video>
+
+---
+
 ## 🎯 Learning Objectives
 
 | Concept | What you practice |

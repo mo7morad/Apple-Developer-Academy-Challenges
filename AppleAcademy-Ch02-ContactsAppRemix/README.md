@@ -1,6 +1,6 @@
 # 📇 Challenge 2 — Contacts
 
-> **Apple Developer Academy** · Challenge 2  (DUO)
+> **Apple Developer Academy** · Challenge 2  
 > *Clone Apple's Contacts app — first the hard way (static), then the smart way (dynamic with Dictionaries).*
 
 ---
