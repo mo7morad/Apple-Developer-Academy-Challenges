@@ -15,10 +15,9 @@ Rather than writing code, the focus shifted to wireframing, creating UI componen
 
 ## 🎬 Final Team HiFi (Screen Recording)
 
-<video controls playsinline style="max-width: 100%; border-radius: 12px;">
-	<source src="../Resources/Ch01-Team%27s_Final_HIFI.mp4" type="video/mp4">
-	Your browser does not support embedded video.
-</video>
+[![Watch the screen recording](../Resources/ch01-team-hifi-preview.svg)](../Resources/Ch01-Team%27s_Final_HIFI.mp4)
+
+Click the preview above to open the recording in GitHub's browser player.
 
 ---
 
