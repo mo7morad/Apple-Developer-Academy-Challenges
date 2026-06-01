@@ -7,7 +7,7 @@
 
 ## 📸 Screenshots
 
-Below are a few screenshots from the running app. Files are located in the workspace `Resources` folder — paths are relative to this README.
+Below are a few screenshots from the running app.
 
 <table>
     <tr>
