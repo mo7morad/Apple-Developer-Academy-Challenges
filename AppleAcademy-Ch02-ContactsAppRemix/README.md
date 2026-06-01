@@ -5,6 +5,20 @@
 
 ---
 
+## 📸 Screenshots
+
+Below are a few screenshots from the running app. Files are located in the workspace `Resources` folder — paths are relative to this README.
+
+![Contacts list](../Resources/Ch02-ContactAppRemix-01.png)
+
+![Search and selection](../Resources/Ch02-ContactAppRemix-02.png)
+
+![New habit modal](../Resources/Ch02-ContactAppRemix-03.png)
+
+![Boards view](../Resources/Ch02-ContactAppRemix-04.png)
+
+![Detail / dark theme preview](../Resources/Ch02-ContactAppRemix-05.png)
+
 ## 📖 About
 
 The **Contacts** challenge reproduces the look and feel of iOS's native Contacts app using SwiftUI. It is built in two distinct stages that teach a crucial lesson: **start simple, then generalise**.
@@ -169,3 +183,4 @@ ForEach(sectionHeaders, id: \.self) { header in
 ---
 
 *Apple Developer Academy · Challenge 2*
+
