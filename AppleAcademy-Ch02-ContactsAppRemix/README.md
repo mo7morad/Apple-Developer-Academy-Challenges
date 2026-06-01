@@ -9,15 +9,18 @@
 
 Below are a few screenshots from the running app. Files are located in the workspace `Resources` folder — paths are relative to this README.
 
-![Contacts list](../Resources/Ch02-ContactAppRemix-01.png)
-
-![Search and selection](../Resources/Ch02-ContactAppRemix-02.png)
-
-![New habit modal](../Resources/Ch02-ContactAppRemix-03.png)
-
-![Boards view](../Resources/Ch02-ContactAppRemix-04.png)
-
-![Detail / dark theme preview](../Resources/Ch02-ContactAppRemix-05.png)
+<table>
+    <tr>
+        <td><img src="../Resources/Ch02-ContactAppRemix-01.png" alt="Contacts list" width="300"></td>
+        <td><img src="../Resources/Ch02-ContactAppRemix-02.png" alt="Search and selection" width="300"></td>
+        <td><img src="../Resources/Ch02-ContactAppRemix-03.png" alt="New habit modal" width="300"></td>
+    </tr>
+    <tr>
+        <td><img src="../Resources/Ch02-ContactAppRemix-04.png" alt="Boards view" width="300"></td>
+        <td><img src="../Resources/Ch02-ContactAppRemix-05.png" alt="Detail / dark theme preview" width="300"></td>
+        <td></td>
+    </tr>
+</table>
 
 ## 📖 About
 
