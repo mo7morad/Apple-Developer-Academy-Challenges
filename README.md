@@ -45,17 +45,6 @@ A (DUO) project **clone with a remix of Apple's Contacts app** built in two stag
 
 ---
 
-## 🛠️ Tech Stack
-
-| Item | Details |
-|---|---|
-| Language | Swift 5.9+ |
-| UI Framework | SwiftUI |
-| Minimum OS | iOS 17+ |
-| IDE | Xcode 15+ |
-
----
-
 ## 🚀 Getting Started
 
 ```bash
