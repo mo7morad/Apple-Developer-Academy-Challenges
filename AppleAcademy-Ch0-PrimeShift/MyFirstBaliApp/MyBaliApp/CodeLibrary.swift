@@ -2,8 +2,6 @@
 //  CodeLibrary.swift
 //  MyBaliApp
 //
-//  Created by Ivan on 03/03/26.
-//
 // Common UI patterns you can copy and paste into your screens
 //
 // HOW TO USE:
