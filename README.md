@@ -64,7 +64,7 @@ To explore the challenges locally, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mo7morad/Apple-Developer-Academy-Challenges.git
+git clone https://github.com/mo7morad/My_Apple-Developer-Academy_Journey.git
 ```
 
 2. Open any challenge in Xcode:
@@ -87,7 +87,7 @@ open AppleAcademy-Ch04-iStack/Distill/Distill.xcodeproj
 ## Repository Structure
 
 ```
-Apple-Developer-Academy-Challenges/
+My_Apple-Developer-Academy_Journey/
 ├── AppleAcademy-Ch0-PrimeShift/
 ├── AppleAcademy-Ch01-HelpAnAcademyFriend/
 ├── AppleAcademy-Ch02-ContactsAppRemix/
