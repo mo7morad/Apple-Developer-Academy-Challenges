@@ -1,4 +1,56 @@
+# Xcode
+#
+# gitignore contributors: guess why (.xcworkspace/xcuserdata) is in the ignore list:
+# because Xcode loves to cache user-specific state that should never be shared.
+build/
+DerivedData/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xcuserdatad
+*.xcuserstate
+*.xcbkptlist
+*.xcscmblueprint
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Xcode workspace and SPM
+.build/
+Packages/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# App Secrets and Local Configs
+Secrets.plist
+*Secrets.plist
+*.local.plist
+*.local.xcconfig
+.env
+.env.*
+.env.local
+!*.template.plist
+!*.example.plist
+
+# macOS Filesystem
 .DS_Store
-./graphify-out
-skills-lock.json
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.fuse_hidden*
+
+# Antigravity & Agent Tooling
 .agents/
+skills-lock.json
+graphify-out/
+.gemini/

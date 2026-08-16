@@ -92,9 +92,26 @@ We pivoted to focus heavily on iPadOS and CoreGraphics for drawing, taking full 
 
 To run the project locally:
 
-1. Open `Distill.xcodeproj` inside the `Project/` folder in Xcode.
+1. Open `Distill/Distill.xcodeproj` in Xcode.
 2. Select an **iPad simulator** (required for the best experience).
 3. Press **⌘ R** to build and run the app.
 
 > [!IMPORTANT]
 > The app is heavily optimized for iPadOS. Running it on an iPhone simulator may cause unexpected layout issues.
+
+## Project Structure
+
+```text
+AppleAcademy-Ch04-iStack/
+├── README.md
+├── ReadmeAssets/                  # Presentation slides, design docs & team photos
+└── Distill/
+    ├── Distill.xcodeproj/         # Xcode project file
+    └── Distill/
+        ├── App/                   # App entry & AppCoordinator
+        ├── Common/                # Reusable views & extensions
+        ├── Features/              # ArtBoard, Carousel, Generation, Home, Share
+        ├── Models/                # Data models (JournalEntry)
+        ├── Services/              # Color extraction, image store, notifications
+        └── Assets.xcassets/       # App icons and graphics
+```

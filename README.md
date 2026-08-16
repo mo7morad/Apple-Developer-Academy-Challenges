@@ -35,8 +35,8 @@ This repository documents my time embracing the Apple ecosystem—spanning both 
 | 0 | [`AppleAcademy-Ch0-PrimeShift`](./AppleAcademy-Ch0-PrimeShift) | PrimeShift (2 Screen App) | `NavigationStack`, `List`, `HStack`, `Image`, assets |
 | 1 | [`AppleAcademy-Ch01-HelpAnAcademyFriend`](./AppleAcademy-Ch01-HelpAnAcademyFriend) | Individual Design (Sketch) | UI/UX design, Sketch artboards, design-to-dev handoff |
 | 2 | [`AppleAcademy-Ch02-ContactsAppRemix`](./AppleAcademy-Ch02-ContactsAppRemix) | Contacts | `Dictionary(grouping:)`, sectioned `List`, toolbar, search |
-| 3 | [`AppleAcademy-Ch03-Nutrition`](./AppleAcademy-Ch03-Nutrition/Ch03%20-%20Gym%20Nutrition) | Numo (Gym Nutrition Tracker) | Modular architecture, SwiftUI, health goals |
-| 4 | [`AppleAcademy-Ch04-iStack`](./AppleAcademy-Ch04-iStack/Distill) | Distill (iPadOS Painting App) | `CoreGraphics`, `PencilKit`, `AVFoundation`, iPadOS UI |
+| 3 | [`AppleAcademy-Ch03-Nutrition`](./AppleAcademy-Ch03-Nutrition) | Numo (Gym Nutrition Tracker) | Modular architecture, SwiftUI, health goals |
+| 4 | [`AppleAcademy-Ch04-iStack`](./AppleAcademy-Ch04-iStack) | Distill (iPadOS Painting App) | `CoreGraphics`, `PencilKit`, `AVFoundation`, iPadOS UI |
 
 ## Challenge Summaries
 
@@ -69,7 +69,17 @@ git clone https://github.com/mo7morad/Apple-Developer-Academy-Challenges.git
 
 2. Open any challenge in Xcode:
 ```bash
-open AppleAcademy-Ch0-PrimeShift/PrimeShift.xcodeproj
+# Challenge 0 — PrimeShift
+open AppleAcademy-Ch0-PrimeShift/MyFirstBaliApp/MyBaliApp.xcodeproj
+
+# Challenge 2 — Contacts Remix
+open AppleAcademy-Ch02-ContactsAppRemix/Contacts.xcodeproj
+
+# Challenge 3 — Numo
+open AppleAcademy-Ch03-Nutrition/Numo.xcodeproj
+
+# Challenge 4 — Distill
+open AppleAcademy-Ch04-iStack/Distill/Distill.xcodeproj
 ```
 
 3. Pick a simulator (iPhone or iPad) and press **⌘ R** to run.

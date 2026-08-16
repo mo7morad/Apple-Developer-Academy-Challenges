@@ -50,7 +50,7 @@ Exactly as simple as it needed to be. Mock data, and just 2 screens.
 
 To explore this challenge locally:
 
-1. Open `PrimeShift.xcodeproj` in Xcode.
+1. Open `MyFirstBaliApp/MyBaliApp.xcodeproj` in Xcode.
 2. Choose a simulator (e.g., iPhone 15).
 3. Press **⌘R** to build and run.
 
@@ -59,10 +59,13 @@ To explore this challenge locally:
 ```text
 AppleAcademy-Ch0-PrimeShift/
 ├── README.md
-├── ReadmeAssets/                  # Project screenshots
-├── PrimeShift.xcodeproj/          # Xcode project file
-└── PrimeShift/
-    ├── PrimeShiftApp.swift        # App entry point
-    ├── ContentView.swift          # Main UI view
-    └── Assets.xcassets/           # App icons and images
+├── ReadmeAssets/                     # Project screenshots & cluster photo
+└── MyFirstBaliApp/
+    ├── MyBaliApp.xcodeproj/          # Xcode project file
+    └── MyBaliApp/
+        ├── MyBaliApp.swift           # App entry point
+        ├── Screen1View.swift         # Part checklist & riding log view
+        ├── Screen2View.swift         # Part detail & riding tip view
+        ├── CodeLibrary.swift         # Data models and mock records
+        └── Assets.xcassets/          # App icons and bike images
 ```
